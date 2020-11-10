@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string= AVICII  by @Amron_Costa and @Skybird350 @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
